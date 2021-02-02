@@ -1,0 +1,33 @@
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\Big Boss.exe.config
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\Big Boss.exe
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\Big Boss.pdb
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\ZedGraph.xml
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big Boss.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.Properties.Resources.resources
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big Boss.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big Boss.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big Boss.csproj.CopyComplete
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big Boss.exe
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big Boss.pdb
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.Laba4.resources
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.MainForm.resources
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.Задание2.resources
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.Задание3.resources
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.Задание7.resources
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.Задание6.resources
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.ДопЗадание3.resources
+C:\Users\user\Desktop\Big Boss\Big Boss\obj\Debug\Big_Boss.Задание1.resources
