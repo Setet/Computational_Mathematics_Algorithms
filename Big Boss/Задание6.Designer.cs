@@ -96,7 +96,7 @@
             this.Controls.Add(this.Calculate);
             this.Controls.Add(this.zedGraph);
             this.Name = "Задание6";
-            this.Text = "Задание6";
+            this.Text = "Задание 6(1)";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -136,7 +136,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Name = "ДопЗадание3";
-            this.Text = "ДопЗадание(3)";
+            this.Text = "Доп Задание 3";
             this.ResumeLayout(false);
             this.PerformLayout();
 

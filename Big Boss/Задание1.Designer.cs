@@ -208,7 +208,7 @@
             this.Controls.Add(this.textBox_n);
             this.Controls.Add(this.label_n);
             this.Name = "Задание1";
-            this.Text = "Задание1";
+            this.Text = "Задание 1(1)";
             this.ResumeLayout(false);
             this.PerformLayout();
 

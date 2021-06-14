@@ -80,7 +80,7 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Laba3
+            // Задание3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -90,8 +90,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Calculate);
             this.Controls.Add(this.richTextBox1);
-            this.Name = "Laba3";
-            this.Text = "Laba3";
+            this.Name = "Задание3";
+            this.Text = "Задание 3(1)";
             this.ResumeLayout(false);
             this.PerformLayout();
 

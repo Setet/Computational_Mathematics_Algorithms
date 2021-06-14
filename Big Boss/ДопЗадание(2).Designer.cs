@@ -80,7 +80,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.Answer);
             this.Name = "Laba4";
-            this.Text = "Laba4";
+            this.Text = "Доп Задание 2";
             this.ResumeLayout(false);
             this.PerformLayout();
 

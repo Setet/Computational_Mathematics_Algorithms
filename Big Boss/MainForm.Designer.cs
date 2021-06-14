@@ -44,7 +44,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(225, 81);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Задание 1";
+            this.button1.Text = "Задание 1(1)";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -78,7 +78,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(225, 81);
             this.button4.TabIndex = 3;
-            this.button4.Text = "Доп задание(2)";
+            this.button4.Text = "Доп задание 2";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -89,7 +89,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(225, 81);
             this.button5.TabIndex = 4;
-            this.button5.Text = "Задание 7 (1)";
+            this.button5.Text = "Задание 7(1)";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
@@ -100,7 +100,7 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(225, 81);
             this.button6.TabIndex = 5;
-            this.button6.Text = "Задание 6 (1)";
+            this.button6.Text = "Задание 6(1)";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
@@ -111,7 +111,7 @@
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(225, 81);
             this.button7.TabIndex = 6;
-            this.button7.Text = "Доп задание(3)";
+            this.button7.Text = "Доп задание 3";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 

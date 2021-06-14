@@ -52,7 +52,7 @@ namespace Big_Boss
                 list.Add(x, lp(mas_x, mas_y, n, x));
             }
 
-            LineItem myCurve = pane.AddCurve("Пожилой Лагранж", list, Color.Purple, SymbolType.None);
+            LineItem myCurve = pane.AddCurve("Лагранж", list, Color.Purple, SymbolType.None);
             zMain.AxisChange();
             zMain.Invalidate();
         }

@@ -164,7 +164,7 @@
             this.label5.Size = new System.Drawing.Size(0, 13);
             this.label5.TabIndex = 31;
             // 
-            // Laba2
+            // Задание2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -181,8 +181,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label3);
-            this.Name = "Laba2";
-            this.Text = "Laba2";
+            this.Name = "Задание2";
+            this.Text = "Задание 2(3,5)";
             this.Load += new System.EventHandler(this.Laba2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
